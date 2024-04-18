@@ -1,0 +1,114 @@
+body {
+    background-color: rgb(25, 172, 57);
+}
+
+header {
+    border: 10px solid rgb(90, 42, 153);
+    padding: 10px;
+    position: static;
+    background-color: rgb(17, 109, 161);
+    
+}
+
+#general {
+    display: inline;
+}
+
+div.logo {
+    width: 50px;
+    margin-left: 10px;
+}
+
+#img1 {
+    width: 100px;
+}
+
+div.ref {
+    border: 1px solid rgb(255, 255, 255);
+    margin-left: 1250px;
+    background-color: rgb(231, 231, 231);
+    font-family: monospace;
+    font-size: large;
+    
+    font-style: oblique;
+}
+
+#cont1 {
+    display: inline;
+}
+#cont2 {
+    display: inline;
+}
+#cont3{
+    display: inline;
+}
+
+
+
+
+#contenedor {
+    border: 10px solid rgb(90, 42, 153);
+    padding: 10px;
+    position: relative;
+    top: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.imgdelcuerpo {
+    width: 1000%;
+    margin-left: 650px;
+}
+
+#img2 {
+    width: 500px;
+    height: 150px;
+    
+}
+#cuadroparaimagenes{
+font-family: monospace;
+color: aliceblue;
+}
+
+
+
+#contenedor{
+background-color: rgb(255, 255, 255);
+
+}
+#mascuadroimagenes{
+    margin-top:30px;
+    padding: 3px;
+    font-family: monospace;
+    color: aliceblue;
+}
+.img3{
+    display: inline;
+    width: 350px;
+    height: 200px; 
+    margin:50px;   
+}
+#cuadro1{
+    display: inline;
+}
+#cuadro2{
+    display: inline;
+}
+#cuadro3{
+    display: inline;
+}
+#cuadro4{
+    display: inline;
+}
+#cuadro5{
+    display: inline;
+}
+#cuadro6{
+    display: inline;
+}
+#piepagina {
+    position: relative;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    top: 40px;
+    text-align: center;
+}
